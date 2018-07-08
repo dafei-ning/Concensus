@@ -4,8 +4,8 @@ Document| Derived | Release Time | Process
 [Cosmos](https://cosmos.network/resources/whitepaper)
 [Tendermint](https://tendermint.readthedocs.io/en/master/introduction.html#what-is-tendermint) | Software
 Casper|
-NKN|
-Celer Network|
+[NKN](https://www.nkn.org/doc/NKN_Whitepaper.pdf)|[Economic Model](https://www.nkn.org/doc/NKN_Economic_Model.pdf)
+[Celer Network](https://www.celer.network/doc/CelerNetwork-Whitepaper.pdf)|
 [EOS.IO](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)|
 [Ethereum WPaper](https://github.com/ethereum/wiki/wiki/White-Paper)|
 [Ethereum YPaper](https://github.com/ethereum/yellowpaper)|
